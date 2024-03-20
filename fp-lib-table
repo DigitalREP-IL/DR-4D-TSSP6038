@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MyModules")(type "KiCad")(uri "C:/Users/Josh/Documents/kicad/mymodules.pretty")(options "")(descr ""))
+)
